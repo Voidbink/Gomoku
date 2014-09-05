@@ -1,0 +1,10 @@
+Aiheenmäärittely
+
+TiRa:n harjoitustyön aiheeksi olen valinnut Gomokun (viiden suoran.)
+Pelin tarkoituksena on saada viiden suora omista pelinappuloista ja blokata toisen pelaajan 
+voittomahdollisuudet. Peli toimii yksinpelinä tietokonetta vastaan, joka arvottaa omat siirtonsa
+ja toimii parhaalla mahdollisella tavalla kulloiseenkin pelitilanteeseen soveltuen.
+Algoritmin tarkoituksena on siis käydä läpi kaikki mahdolliset pelitilanteet, ja valita kaikista niistä parhaan
+lopputuloksen tuova vaihtoehto.
+
+Algoritmina tekoälylle tulen todennäköisesti käyttämään Min-Max- algoritmia alfa-beta painotuksella. 
